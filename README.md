@@ -16,10 +16,8 @@ int main() {
                         } else {
                                 U = cos(x*y*y);
                         }
-
                         printf("%f %f %f\n", x, y, U);
                 }
         }
-
         return 0;
 }
